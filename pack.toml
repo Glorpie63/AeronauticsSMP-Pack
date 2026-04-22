@@ -1,0 +1,13 @@
+name = "AeronauticsSMP"
+author = "Glorpie"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6bf820582bdf9951bc33f32e4361f146decfd621cadd6e5011816f49b934e71f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"
