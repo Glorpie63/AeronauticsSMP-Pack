@@ -21,6 +21,11 @@ hash = "cc360d86f76e729d3ebb7384cfbc933d8ffba694ba91360edeb846d61d14e561"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
+metafile = true
+
+[[files]]
 file = "mods/cc-sable.pw.toml"
 hash = "cc686a2a01e80740c102f62c2989ad5e69c675c86c2687b5d49063943506f010"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/create-mechanical-chicken.pw.toml"
 hash = "727ed664274ebc3dd632560f4c611d1e04d9f3d138bb300302c1ff712726c34e"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "703c2d475167e08d77254c8944e2971899603cce61e4c87f870095386c725c74"
 metafile = true
 
 [[files]]
@@ -161,8 +171,18 @@ hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "b68a0b80d7dd64e2c5ac489aa67cf3c343630c9e2deec5d09522d6f7363b2b35"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
 metafile = true
 
 [[files]]
