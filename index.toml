@@ -131,6 +131,11 @@ hash = "c4103785556fcfb51a047f038be68dd742fa15e76daff6f0f3277893a9606e97"
 metafile = true
 
 [[files]]
+file = "mods/create-radars.pw.toml"
+hash = "47412667a229a8e16e14c2af0fd091f03275e17885b43819be039704606e40f8"
+metafile = true
+
+[[files]]
 file = "mods/create-tracks.pw.toml"
 hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
 metafile = true
