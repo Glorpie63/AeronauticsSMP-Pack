@@ -11,6 +11,11 @@ hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "6b26155807b2f3825db22e5be51a9ab330c8a70500a702740726053cb4678349"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
+metafile = true
+
+[[files]]
+file = "mods/cc-graphics.pw.toml"
+hash = "d6c8cba25f923fe9d777751f19497a026e1b79bd157112eccf42e1647e9492e3"
 metafile = true
 
 [[files]]
@@ -216,6 +226,11 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
+file = "mods/log-begone.pw.toml"
+hash = "48bd525ac1cd8811759a7842548a49e51bd25455b8044f99a423d464987dfdc0"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
 metafile = true
@@ -266,8 +281,8 @@ hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
-file = "mods/robomiscfixes-1.0.0.jar"
-hash = "4bb569119877b512c1498c29b6b8a22e878b6bbdc64837f6073038ce307f58fa"
+file = "mods/robomiscfixes-1.0.1.jar"
+hash = "b02f3d2eb0d3661128966481ff9ebac9e31b8714d52162024ff6cd0cab1fbf75"
 
 [[files]]
 file = "mods/rpl.pw.toml"
