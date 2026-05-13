@@ -141,6 +141,11 @@ hash = "727ed664274ebc3dd632560f4c611d1e04d9f3d138bb300302c1ff712726c34e"
 metafile = true
 
 [[files]]
+file = "mods/create-more-girder.pw.toml"
+hash = "44889fb54555b9392ec782b9c475056d4caf7c80036511d56e49b654ba35f294"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "703c2d475167e08d77254c8944e2971899603cce61e4c87f870095386c725c74"
 metafile = true
@@ -156,6 +161,11 @@ hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
 metafile = true
 
 [[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "2c72104b4cf249d4f096f673293a41c199d611dc9b99a9055d463fa5cd90c7cd"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
@@ -168,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/drive-by-wire-sable.pw.toml"
+hash = "10b4667fda9920f6a68577d61d17b318d97a988f5a8e9efcacc8c83c665cdc4b"
 metafile = true
 
 [[files]]
@@ -208,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/gliders.pw.toml"
 hash = "d8f856eb2c5f3ca239896452c4bae65f17d3dd042b3fca15b6ba65fe47cfe555"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
