@@ -229,18 +229,6 @@ file = "mods/interiors-1.21.1-neoforge-0.6.1.jar"
 hash = "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
 
 [[files]]
-file = "mods/iris-flywheel-compat-NeoForge-2.4.0.jar"
-hash = "f5351cf9a838ae1624fcda78a8734b52cfde20de824db30e3f00dd00b9128ec8"
-
-[[files]]
-file = "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
-hash = "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
-
-[[files]]
-file = "mods/irisveil-0.3.0.jar"
-hash = "a1927c93535088a079f7b001d69db54795c36fd19ec9f044ea310c8eb3fadee5"
-
-[[files]]
 file = "mods/jei-1.21.1-neoforge-19.39.0.368.jar"
 hash = "ac27623a1e425a05f95f170eea94974d26ea68ca2037e5695176fb66a090de84"
 
@@ -317,10 +305,6 @@ file = "mods/sable-neoforge-1.21.1-2.0.3.jar"
 hash = "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279"
 
 [[files]]
-file = "mods/sablefarandwide-1.0.0.jar"
-hash = "c9282b233f7c5ba330a3e86413873d20854c16270e7d3e5536d8040f06943245"
-
-[[files]]
 file = "mods/sablejade-1.2.1.jar"
 hash = "8ae49d8e802a08279f0bac0b46fbe929850fa49e94fae4577c38a38109aa761b"
 
@@ -339,10 +323,6 @@ hash = "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266"
 [[files]]
 file = "mods/sootychimneys-neoforge-1.3.5.jar"
 hash = "e492f89c632b423c60f2a6f91386133f3a31e6e02ea9970f9ef30ece5fce41d4"
-
-[[files]]
-file = "mods/sound-physics-aeronautics-0.2.0-alpha.1.jar"
-hash = "d0e9a7fee8ea7a26661812534808e7d24b28c1a76fe150d954cfb7bac5c34c9a"
 
 [[files]]
 file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
