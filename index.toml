@@ -153,10 +153,6 @@ file = "mods/createaddition-1.6.0.jar"
 hash = "41876c3780b70365a1848994d146a73423cc19fbe86485885795d9e7d855e7e9"
 
 [[files]]
-file = "mods/createautomatics-1.0.1.jar"
-hash = "5bd847fa3ee45270650907fa9b75f351ead752fe8b1d6ab019ea11365f41f3c5"
-
-[[files]]
 file = "mods/createdeco-2.1.3.jar"
 hash = "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
 
