@@ -197,14 +197,6 @@ file = "mods/emi-1.1.24+1.21.1+neoforge.jar"
 hash = "b68691f94f0727fc517cac2ab55bd6658d1179cc8cc715fe610b60c37469bc4c"
 
 [[files]]
-file = "mods/entity_model_features-3.2.4-1.21-neoforge.jar"
-hash = "84c22f2be06ee6bfab265a443e075225878bba9f408843030dc6de3152e9dedb"
-
-[[files]]
-file = "mods/entity_texture_features_1.21-neoforge-7.1.jar"
-hash = "b2e396543c678b8378a2d5557a0cd3d24790364bff7e96edaf17921112d6176b"
-
-[[files]]
 file = "mods/exposure-neoforge-1.21.1-1.9.18.jar"
 hash = "674c537a99f69b2bae53521c95dae59bc5f4eb2eb15418eec0ecbaf36b53d888"
 
