@@ -77,6 +77,10 @@ file = "mods/arts_and_crafts-neoforge-1.21.1-1.5.4.jar"
 hash = "9d88dc2a713688e95c752698053c2e259034ff86699d020f16720b021b305e12"
 
 [[files]]
+file = "mods/athena-neoforge-1.21.1-4.0.6.jar"
+hash = "43699885bbce3343916d4c5c4940cf0e3f9f6f02fdeb46e8655e121b42282ec5"
+
+[[files]]
 file = "mods/azimuth-1.4.1.jar"
 hash = "46513de8e38eb57370a101483ffa32a67d4b92de073783a00520cafecaab995e"
 
@@ -295,6 +299,10 @@ hash = "39bd87ba2731d2f2416f464120f9019e733558156dbcf85552ef3d5e0703b11b"
 [[files]]
 file = "mods/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar"
 hash = "25812f308a87c04686de6ac9f24a8073101f81864f0eb9abf348f95d73a6629e"
+
+[[files]]
+file = "mods/resourcefullib-neoforge-1.21-3.0.12 (1).jar"
+hash = "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
 
 [[files]]
 file = "mods/rusticdelight-neoforge-1.21-1.6.1.jar"
