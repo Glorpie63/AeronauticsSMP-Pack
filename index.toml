@@ -93,6 +93,10 @@ file = "mods/cc-tweaked-1.21.1-forge-1.120.0.jar"
 hash = "81a903710d109d129c249c105695a96f4bad5e0acf7068920fb191ba791c14ce"
 
 [[files]]
+file = "mods/chipped-neoforge-1.21.1-4.0.2 (1).jar"
+hash = "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291"
+
+[[files]]
 file = "mods/climbable_ropes-2.1.0.jar"
 hash = "ffe1d24de02c039608bd6d2fda900dc579cf128b40936bfc048c0f9d78db4bb4"
 
@@ -107,6 +111,10 @@ hash = "d5149893c62dc4434a8751f025d692579260b73ed9428ea4dea110015ffa0f04"
 [[files]]
 file = "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar"
 hash = "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
+
+[[files]]
+file = "mods/crawl-0.14.9.jar"
+hash = "e4c76b65de9505ffc5ddc7cd90f48dc6be4da0c1a20772c19d85bb94c350036e"
 
 [[files]]
 file = "mods/create-1.21.1-6.0.10.jar"
