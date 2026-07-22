@@ -189,10 +189,6 @@ file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
 hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 
 [[files]]
-file = "mods/dynamikpatch-2.0.0.jar"
-hash = "3e38c30bc44f7f8056ab39e869aeb98baef30f635764b43ea048924707c2672c"
-
-[[files]]
 file = "mods/emi-1.1.24+1.21.1+neoforge.jar"
 hash = "b68691f94f0727fc517cac2ab55bd6658d1179cc8cc715fe610b60c37469bc4c"
 
