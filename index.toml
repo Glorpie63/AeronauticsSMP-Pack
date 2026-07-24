@@ -177,10 +177,6 @@ file = "mods/createframed-1.21.1-1.8.2.jar"
 hash = "a1f0434f5485de5ba5683320ebca7b71841488421a5249641ae357dbeeb35283"
 
 [[files]]
-file = "mods/createschematicchecker-1.21.27-6.0-neoforge-1.21.1.jar"
-hash = "92e3bd1fc41abffeda12fd6defae457158cd68f9c80d4c0cb7b3c70973da392f"
-
-[[files]]
 file = "mods/createthrusters-bundled-V1.0.6.jar"
 hash = "4ef2941fe977aff7956f4cac3cdf191399630edfa6664b463f3a76fd0967cb57"
 
