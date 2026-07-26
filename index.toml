@@ -53,10 +53,6 @@ file = "mods/VS-Sable-HoseConnectors-0.1.8-1.21.1.jar"
 hash = "32bc4b03b086646185548925b4f4044054031df99d1368546186de64e5a71a63"
 
 [[files]]
-file = "mods/aeroclaims-0.9.3.jar"
-hash = "0c42edd6b4c80dc4bfb06636373e087a2e0a392f9d1f1bdec68b4ccc9904efe1"
-
-[[files]]
 file = "mods/aerocopycats-1.1.1.jar"
 hash = "3199c2afddb6eea98f041ea9a36aed71542213aedf0fdd0da21f6be4a1e72ae8"
 
