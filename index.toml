@@ -227,7 +227,7 @@ hash = "9f8b573059d63c8c64a827af13b6d6300e9f9c5dc11479a0a1f4db7092ac346a"
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "c867bcdf5bc4a217be1e92f5cf6dbbe963855677aad3c7b8031eb8fe411e62bf"
+hash = "a0b3083a1577130adb77867a6f8b6cf0c5bdd3c0c8b2995fa8b5fca323ed09a0"
 metafile = true
 
 [[files]]
