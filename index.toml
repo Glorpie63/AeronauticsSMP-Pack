@@ -333,6 +333,10 @@ file = "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge (1).jar"
 hash = "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
 
 [[files]]
+file = "mods/robomiscfixes-1.0.0.jar"
+hash = "27307f2ca0f1cc52dc59ad13b6af41b70af7f7b3e4b5567a0ad0865b76477854"
+
+[[files]]
 file = "mods/rusticdelight-neoforge-1.21-1.6.1.jar"
 hash = "44a52e70d79ad3b0decf8c3a0e5f1bd77cf7b24836df254185dbc2e1815893d5"
 
