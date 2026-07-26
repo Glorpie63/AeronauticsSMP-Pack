@@ -53,6 +53,10 @@ file = "mods/VS-Sable-HoseConnectors-0.1.8-1.21.1.jar"
 hash = "32bc4b03b086646185548925b4f4044054031df99d1368546186de64e5a71a63"
 
 [[files]]
+file = "mods/aeroclaims-0.9.3.jar"
+hash = "0c42edd6b4c80dc4bfb06636373e087a2e0a392f9d1f1bdec68b4ccc9904efe1"
+
+[[files]]
 file = "mods/aerocopycats-1.1.1.jar"
 hash = "3199c2afddb6eea98f041ea9a36aed71542213aedf0fdd0da21f6be4a1e72ae8"
 
@@ -167,6 +171,10 @@ hash = "eda56263fabfcf4064dbaa8950a7f469775d4457dc807ee84ba29169690fda34"
 [[files]]
 file = "mods/createaddition-1.6.0.jar"
 hash = "41876c3780b70365a1848994d146a73423cc19fbe86485885795d9e7d855e7e9"
+
+[[files]]
+file = "mods/createbigcannons-5.11.7+mc.1.21.1.jar"
+hash = "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
 
 [[files]]
 file = "mods/createcobblestone-1.4.12+neoforge-1.21.1-144.jar"
@@ -293,6 +301,10 @@ file = "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
 hash = "a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f"
 
 [[files]]
+file = "mods/open-parties-and-claims-neoforge-1.21.1-0.29.3.jar"
+hash = "a49d18f92dcde9489a1938012bd5a3e4ba13ed7ea4ba1ec25dc0b1a28f886028"
+
+[[files]]
 file = "mods/player-animation-lib-forge-2.0.4+1.21.1.jar"
 hash = "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
 
@@ -315,6 +327,10 @@ hash = "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
 [[files]]
 file = "mods/rightclickharvest-neoforge-4.6.1+1.21.1.jar"
 hash = "b5d597ed361964ba9530a848fe8987715f40af2390dfa1a6adb70a2a74076d52"
+
+[[files]]
+file = "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge (1).jar"
+hash = "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
 
 [[files]]
 file = "mods/rusticdelight-neoforge-1.21-1.6.1.jar"
