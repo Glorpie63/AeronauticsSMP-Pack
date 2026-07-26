@@ -395,6 +395,5 @@ file = "mods/youre-in-grave-danger-neoforge-2.0.13.jar"
 hash = "dd2142a3c6a9d5b990ab36220be482f7aa9f528755f93b8fef8996f509ddcda2"
 
 [[files]]
-file = "mods/yurimod.pw.toml"
-hash = "f84de5854b56ceec2654eab5571c83285231090daf5a1e9095105a2438b7e813"
-metafile = true
+file = "mods/yurimod-1.3.1.jar"
+hash = "0eb54a0787af65da0ebd290315e8d9a9dd622ab4186d6835462a77575e24c9c9"

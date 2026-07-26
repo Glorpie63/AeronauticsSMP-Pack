@@ -1,8 +1,0 @@
-name = "yurimod"
-filename = "yurimod-1.3.1.jar"
-side = "both"
-
-[download]
-url = "https://codeberg.org/BeanGalSolina/YuriMod/releases/download/v1.3.1/yurimod-1.3.1.jar"
-hash-format = "sha256"
-hash = "0eb54a0787af65da0ebd290315e8d9a9dd622ab4186d6835462a77575e24c9c9"
