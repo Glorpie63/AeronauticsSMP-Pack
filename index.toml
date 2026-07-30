@@ -178,6 +178,10 @@ file = "mods/create_power_loader-2.0.5-mc1.21.1.jar"
 hash = "69fb0433dcba1597e7fbc06b2731ebd441f8ed99e20d8ec798d852d6865d1bd7"
 
 [[files]]
+file = "mods/create_submarine-2.2.4.jar"
+hash = "87a20bb20ae3c90e6838073d3a84839e251c8794f409ade8cab79f51d1de0c66"
+
+[[files]]
 file = "mods/create_tweaked_controllers-1.21.1-1.2.7.jar"
 hash = "eda56263fabfcf4064dbaa8950a7f469775d4457dc807ee84ba29169690fda34"
 
@@ -220,10 +224,6 @@ hash = "674c537a99f69b2bae53521c95dae59bc5f4eb2eb15418eec0ecbaf36b53d888"
 [[files]]
 file = "mods/exposure_catalog-neoforge-1.1.1.jar"
 hash = "5a3b74deb591f2592bb6ef4e650c55935729ef37e9e4af937395096096229939"
-
-[[files]]
-file = "mods/exposure_expanded-neoforge-1.0.1.jar"
-hash = "e56f4e93fe48e97cd37c0e63c82622b8fe75c1f272ac033ec2f3e3cbb8ba391d"
 
 [[files]]
 file = "mods/ferritecore-7.0.3-neoforge.jar"
