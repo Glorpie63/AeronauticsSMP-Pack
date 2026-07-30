@@ -234,10 +234,6 @@ file = "mods/figura-0.1.6+1.21.1-neoforge-mc.jar"
 hash = "f379147b52953e8013c27ee5b9d1552618b649f80a0cbe974ed0c6e8de89515c"
 
 [[files]]
-file = "mods/firstperson-neoforge-2.7.2-mc1.21.1.jar"
-hash = "9f8b573059d63c8c64a827af13b6d6300e9f9c5dc11479a0a1f4db7092ac346a"
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "a0b3083a1577130adb77867a6f8b6cf0c5bdd3c0c8b2995fa8b5fca323ed09a0"
 metafile = true
