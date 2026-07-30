@@ -69,8 +69,8 @@ file = "mods/aeronautics_atmos-1.0.0.jar"
 hash = "2c6208c294bb15020fcbc16527682acc8ac0767722114187232fd3362b3d744c"
 
 [[files]]
-file = "mods/aeronautics_gale-1.0.1.jar"
-hash = "ef87459725a6b84a08672265688132c1ccef4fb70f81ee0e58eb31d326646e33"
+file = "mods/aeronautics_gale-1.0.2.jar"
+hash = "1daacba689dc8024a32c139e3b360eaf93c552154f242567009f253674153955"
 
 [[files]]
 file = "mods/another_furniture-neoforge-4.0.2.jar"
@@ -361,6 +361,10 @@ hash = "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279"
 [[files]]
 file = "mods/sablejade-1.2.1.jar"
 hash = "8ae49d8e802a08279f0bac0b46fbe929850fa49e94fae4577c38a38109aa761b"
+
+[[files]]
+file = "mods/simpleclouds-0.7.3+1.21.1-all.jar"
+hash = "416e31ea7976eac958824391daec3be704842175823718946398219857ec44d9"
 
 [[files]]
 file = "mods/sliceanddice-neoforge-4.3.2.jar"
