@@ -363,10 +363,6 @@ file = "mods/sablejade-1.2.1.jar"
 hash = "8ae49d8e802a08279f0bac0b46fbe929850fa49e94fae4577c38a38109aa761b"
 
 [[files]]
-file = "mods/simpleclouds-0.7.3+1.21.1-all.jar"
-hash = "416e31ea7976eac958824391daec3be704842175823718946398219857ec44d9"
-
-[[files]]
 file = "mods/sliceanddice-neoforge-4.3.2.jar"
 hash = "334afd3a0d543674823032eb710189d29b6ffb74bc35e27c569c75e6c7ca07e0"
 
