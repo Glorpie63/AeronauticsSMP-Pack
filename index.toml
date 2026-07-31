@@ -275,6 +275,10 @@ file = "mods/journeymap-neoforge-1.21.1-6.0.1.jar"
 hash = "4bbc9e51c8bc30e3fe1fd1dfa1a3185f63d7a827b5c92ab5ac14bc1f384fd56b"
 
 [[files]]
+file = "mods/just-hammers-neoforge-21.1.4 (1).jar"
+hash = "59487c8758fd762fcddc58e3b5e8a956de3f6a2115cd1c6f9a915939f5f985d8"
+
+[[files]]
 file = "mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
 hash = "83f1701f7802d4355e57f73c2751b29e4b760a4e2a18427504bbd9ce7090a0c1"
 
