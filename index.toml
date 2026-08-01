@@ -73,6 +73,10 @@ file = "mods/aeronautics_gale-1.0.2.jar"
 hash = "1daacba689dc8024a32c139e3b360eaf93c552154f242567009f253674153955"
 
 [[files]]
+file = "mods/aeroworks-1.3.0.jar"
+hash = "f836748d2bbad5b60fffef559418b74688621bf8e77710e6e0d5437c56ed2c78"
+
+[[files]]
 file = "mods/another_furniture-neoforge-4.0.2.jar"
 hash = "c61a66c73bcc5147d9983dc72c485493a612d2dbc078fcb86e2024155e34b7dd"
 
@@ -204,6 +208,10 @@ hash = "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
 [[files]]
 file = "mods/createframed-1.21.1-1.8.2.jar"
 hash = "a1f0434f5485de5ba5683320ebca7b71841488421a5249641ae357dbeeb35283"
+
+[[files]]
+file = "mods/createpropulsion-1.1.5.jar"
+hash = "5525a3a0c8b1c476cbc467d021e9d1492b58c78de31ed269eb04f169d42db0a1"
 
 [[files]]
 file = "mods/createthrusters-bundled-V1.0.6.jar"
