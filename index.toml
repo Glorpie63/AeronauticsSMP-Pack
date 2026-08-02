@@ -379,6 +379,10 @@ file = "mods/sliceanddice-neoforge-4.3.2.jar"
 hash = "334afd3a0d543674823032eb710189d29b6ffb74bc35e27c569c75e6c7ca07e0"
 
 [[files]]
+file = "mods/smf-1.0-SNAPSHOT.jar"
+hash = "0adbc9258de3a3b9a09008f6f651d68e88530b5ef3c2eac7e1215a0908602711"
+
+[[files]]
 file = "mods/sodium-extra-neoforge-0.9.3+mc1.21.1.jar"
 hash = "fa553bce38bad6fdd478841a270a79a31dc05f87d7892b1cf839850602ac9186"
 
