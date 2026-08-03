@@ -319,8 +319,8 @@ file = "mods/molten_vents-1.21.1-2.1.1.jar"
 hash = "62aa307741ae10c3df3bd364dfe2e706413a1b428601ff61e4aeb5049cc40b5c"
 
 [[files]]
-file = "mods/moonlight-neoforge-1.21.1-3.1.1.jar"
-hash = "095a0b08d34da009b27f207fda8d4322d201e6353231a1ca2624c2350962a3a8"
+file = "mods/moonlight-neoforge-1.21.1-3.3.0.jar"
+hash = "30420824c7f9fbca0317551c8fd6bbdce01c8d745edf5bc8d61e42393c5f0335"
 
 [[files]]
 file = "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
@@ -421,6 +421,14 @@ hash = "db9a2fa385757656797a5a14ffad1777fbe596e2e443f1deba5f7534706eb806"
 [[files]]
 file = "mods/treephysics-neoforge-1.21.1-2.3.jar"
 hash = "e801280cf40eda45f5e52698779e511ff7e80b933786bf2845f4bf35c109921d"
+
+[[files]]
+file = "mods/vista-neoforge-1.21.1-5.2.5.jar"
+hash = "5938dfe186635aac5011b0f9b35577ddc7909c6dfe5ef4f09e05867270f0961b"
+
+[[files]]
+file = "mods/vista_recipes-neoforge-1.21.1-3.1.jar"
+hash = "604fe9f68a4c60fff7504b479843c4b7cd7b233fab4a96791fe31bb244bfbe53"
 
 [[files]]
 file = "mods/voicechat-neoforge-1.21.1-2.6.20.jar"
