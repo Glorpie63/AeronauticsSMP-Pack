@@ -423,6 +423,10 @@ file = "mods/treephysics-neoforge-1.21.1-2.3.jar"
 hash = "e801280cf40eda45f5e52698779e511ff7e80b933786bf2845f4bf35c109921d"
 
 [[files]]
+file = "mods/vista-advanced-player-1.21.1-1.0.1.jar"
+hash = "f1bb5c96f6b17caaf78089114b38802093cadc1edd64cc350f76b93499660a17"
+
+[[files]]
 file = "mods/vista-neoforge-1.21.1-5.2.5.jar"
 hash = "5938dfe186635aac5011b0f9b35577ddc7909c6dfe5ef4f09e05867270f0961b"
 
