@@ -194,6 +194,10 @@ file = "mods/createaddition-1.6.0.jar"
 hash = "41876c3780b70365a1848994d146a73423cc19fbe86485885795d9e7d855e7e9"
 
 [[files]]
+file = "mods/createbacktanktrims-1.2.0.jar"
+hash = "d61be5475537b04efa84b756b8286e222e9055782fd811447392b86e553b3848"
+
+[[files]]
 file = "mods/createbigcannons-5.11.7+mc.1.21.1.jar"
 hash = "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
 
@@ -220,6 +224,10 @@ hash = "4ef2941fe977aff7956f4cac3cdf191399630edfa6664b463f3a76fd0967cb57"
 [[files]]
 file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
 hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+
+[[files]]
+file = "mods/electroenergetics-1.21.1-1.1.1.jar"
+hash = "ea5df2c5100a4aa178bd0054779015d85c63da221a782915240656601b51aefd"
 
 [[files]]
 file = "mods/emi-1.1.24+1.21.1+neoforge.jar"
