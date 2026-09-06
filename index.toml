@@ -17,8 +17,8 @@ file = "mods/CreateDragonsPlus-1.11.2b.jar"
 hash = "9b15e464465a639de9ef5a935ae9fd94ea545904517d1428bc784a4012e0a1e2"
 
 [[files]]
-file = "mods/CreateNumismatics-1.0.20+neoforge-mc1.21.1.jar"
-hash = "1375ba1b50e53fd09435029b5b2d5b94779ba397cca7e01180d07b0f624e5b9b"
+file = "mods/CreateNumismatics-1.1.0+neoforge-mc1.21.1.jar"
+hash = "d33a33b46f923462ae6806a024851afaefa473ced0e95bf405f8ebc13abce767"
 
 [[files]]
 file = "mods/FarmersDelight-1.21.1-1.3.2.jar"
