@@ -210,6 +210,10 @@ file = "mods/createdeco-2.1.3.jar"
 hash = "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
 
 [[files]]
+file = "mods/createestrogen-2.0.0+1.21.1.jar"
+hash = "fc46ad25bd0d9c61f799aac6d94c9f5e4ce3960e8de96a48664e9f70534489ac"
+
+[[files]]
 file = "mods/createframed-1.21.1-1.8.2.jar"
 hash = "a1f0434f5485de5ba5683320ebca7b71841488421a5249641ae357dbeeb35283"
 
@@ -226,12 +230,20 @@ file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
 hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 
 [[files]]
+file = "mods/cynosure-1.0.2-neoforge-1.21.1.jar"
+hash = "92ecc7178572883b228285b02208e02ce929f8405e4fae80cc56854e3eea1514"
+
+[[files]]
 file = "mods/electroenergetics-1.21.1-1.1.1.jar"
 hash = "ea5df2c5100a4aa178bd0054779015d85c63da221a782915240656601b51aefd"
 
 [[files]]
 file = "mods/emi-1.1.24+1.21.1+neoforge.jar"
 hash = "b68691f94f0727fc517cac2ab55bd6658d1179cc8cc715fe610b60c37469bc4c"
+
+[[files]]
+file = "mods/estrogen-6.0.8+1.21.1-neoforge.jar"
+hash = "efbc0a8be3e31070b93485ab595ecf82eec40bca0adc2e53cce62617248bf4ad"
 
 [[files]]
 file = "mods/exposure-neoforge-1.21.1-1.9.18.jar"
