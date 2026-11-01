@@ -237,6 +237,10 @@ file = "mods/figura-0.1.6+1.21.1-neoforge-mc.jar"
 hash = "f379147b52953e8013c27ee5b9d1552618b649f80a0cbe974ed0c6e8de89515c"
 
 [[files]]
+file = "mods/figuraaero-1.21.1-1.0.0.jar"
+hash = "3759e82a36c30408f4778cbab621382b39858c1917966a1e8dd767fd2f8c3e4f"
+
+[[files]]
 file = "mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar"
 hash = "bcbb5d8479032690d53debfcf61c0477080ff6d1d4dae9a9a85122b47377646a"
 
