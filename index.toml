@@ -121,6 +121,10 @@ file = "mods/bits_n_bobs-2.3.5.jar"
 hash = "3e1647383c6ed1d629b6f20210179d5870bcbf8ba2a2a0ec58af69b53513db68"
 
 [[files]]
+file = "mods/caelus-neoforge-7.0.1+1.21.1.jar"
+hash = "432a645557f29de159d9edde2fd109f8e3b32ff30895b4fede04ee5f1a1a682f"
+
+[[files]]
 file = "mods/cc-tweaked-1.21.1-forge-1.120.2.jar"
 hash = "e8651fe24b384e925e563c9ad077644744474e2e7c0adb8e6d5b4757598dce9f"
 
@@ -283,6 +287,10 @@ hash = "94139e34b8b4e025f1c3e56cc1c677d86b2b2f0bba2dca1c44003042993d16ed"
 [[files]]
 file = "mods/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-67.jar"
 hash = "afe3487aee09b5e587c14739d0f034f1b379d957ab190f92225fbfc4b98feb9f"
+
+[[files]]
+file = "mods/inline-neoforge-1.21.1-1.2.2.jar"
+hash = "694ead6f595f106c5b82fbd8de30816f9f72e9ec5bc4a6c8b754e514bee7be2d"
 
 [[files]]
 file = "mods/jamlib-neoforge-1.3.6+1.21.1.jar"
