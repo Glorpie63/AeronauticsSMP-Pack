@@ -33,6 +33,10 @@ file = "mods/Searchables-neoforge-1.21.1-1.0.2.jar"
 hash = "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
 
 [[files]]
+file = "mods/UniversalBoneMeal-v21.1.0-1.21.1-NeoForge.jar"
+hash = "18bcaeffe41f50babd00211d81e072a0986437b55780cc978a8ae10a53974cbc"
+
+[[files]]
 file = "mods/VS-Sable-HoseConnectors-0.2.2-1.21.1.jar"
 hash = "3c856ad8357157749e9ac3f2a3ae9c75113db146af3c510eef5794a17239b758"
 
@@ -95,6 +99,10 @@ hash = "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb"
 [[files]]
 file = "mods/azimuth-1.4.10.jar"
 hash = "e9f56d10a6ae56c8d02d2e9e1668c7b70d545d8e20cf4972f0710e9b01989d8a"
+
+[[files]]
+file = "mods/backwiththebundle-1.0.0.jar"
+hash = "b9b1676fa24e3166bd272afc33f48be8f56515212d42f16b022de2fd3afd1074"
 
 [[files]]
 file = "mods/baguettelib-1.21.1-NeoForge-2.0.7.jar"
@@ -193,8 +201,16 @@ file = "mods/createaddition-1.7.2.jar"
 hash = "71e9c3ac39089e72c1e47a129a44e41eb55efc9534eecfdead8da8fb64313414"
 
 [[files]]
+file = "mods/createcafe-1.4.3.jar"
+hash = "ee8b0f78812d6a97aab0c1416ee599a538ebeac8456b1e494d06a48fbe9eff14"
+
+[[files]]
 file = "mods/createdeco-2.1.3.jar"
 hash = "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
+
+[[files]]
+file = "mods/createestrogen-2.0.0+1.21.1.jar"
+hash = "fc46ad25bd0d9c61f799aac6d94c9f5e4ce3960e8de96a48664e9f70534489ac"
 
 [[files]]
 file = "mods/createprism-1.2.2.jar"
@@ -209,6 +225,10 @@ file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
 hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 
 [[files]]
+file = "mods/cynosure-1.0.4-neoforge-1.21.1.jar"
+hash = "93a67d9e161f32b81802abf32f163003c80428f57ee824db609fedfaf8e72ca5"
+
+[[files]]
 file = "mods/emi-1.1.24+1.21.1+neoforge.jar"
 hash = "b68691f94f0727fc517cac2ab55bd6658d1179cc8cc715fe610b60c37469bc4c"
 
@@ -219,6 +239,10 @@ hash = "2b5cac7e2be8505ff555f679f2c71b717b7be883f1e01f7d8e97c586019947a7"
 [[files]]
 file = "mods/entityculling-neoforge-1.11.3-mc1.21.1.jar"
 hash = "fa73ac70a3766568203b730a1573b4b54d88fb48dff4a33d8c4a80be9b8d17d5"
+
+[[files]]
+file = "mods/estrogen-6.0.12+1.21.1-neoforge.jar"
+hash = "1e86e215c34ba05a7fa5b3515d2db68304ccc3dfee173306846fdbba25df4e02"
 
 [[files]]
 file = "mods/exposure-neoforge-1.21.1-1.9.19.jar"
@@ -257,6 +281,14 @@ file = "mods/guideme-21.1.20.jar"
 hash = "94139e34b8b4e025f1c3e56cc1c677d86b2b2f0bba2dca1c44003042993d16ed"
 
 [[files]]
+file = "mods/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-67.jar"
+hash = "afe3487aee09b5e587c14739d0f034f1b379d957ab190f92225fbfc4b98feb9f"
+
+[[files]]
+file = "mods/jamlib-neoforge-1.3.6+1.21.1.jar"
+hash = "911afdfe717a2375a651253e282ac9e769f8bead381d33c2167955c25eefe514"
+
+[[files]]
 file = "mods/jei-1.21.1-neoforge-19.70.0.460.jar"
 hash = "097cdfae99b208dfb94f8c55e813af10e55688ecf4e42116fed1b7e26f0f4fcf"
 
@@ -289,6 +321,10 @@ file = "mods/nomansland-1.6.3.jar"
 hash = "65b16173cce4e8db952c7c722da423edc3d7ab74edbdb27ca3e037acbb5dbd9d"
 
 [[files]]
+file = "mods/paucal-0.7.1-pre-27+1.21.1-neoforge.jar"
+hash = "4be89c91385ffaecb5a0cc405d644dc7387c6f05705630b26df333a226ffae08"
+
+[[files]]
 file = "mods/polymorph-neoforge-1.2.0+1.21.1.jar"
 hash = "4a09b7a3c8ea4f5b79acadb405a18140fe20d882e6930403c46cc7ad49c5ec06"
 
@@ -297,12 +333,20 @@ file = "mods/portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar"
 hash = "39bd87ba2731d2f2416f464120f9019e733558156dbcf85552ef3d5e0703b11b"
 
 [[files]]
+file = "mods/puzzleslib-v21.1.66-mc1.21.1+neoforge.jar"
+hash = "cb02de7e1d4a133746ec7b43a64eddc2cb621122cdc49e134a15272f456c31f2"
+
+[[files]]
 file = "mods/railways-0.3.0-beta.2+neoforge-mc1.21.1.jar"
 hash = "64b74ddad661deae1cfe7e8334cfa3d39bb8ef7b761f83595ba0476c4a9bb1d5"
 
 [[files]]
 file = "mods/reliable_backpacks-neoforge-1.21.1-1.9.1.jar"
 hash = "77d3c3c1f6dbc0ca5c1dd884cc8cc5da0511952ae5db178357f0c91b135dcfda"
+
+[[files]]
+file = "mods/rightclickharvest-neoforge-4.6.1+1.21.1.jar"
+hash = "b5d597ed361964ba9530a848fe8987715f40af2390dfa1a6adb70a2a74076d52"
 
 [[files]]
 file = "mods/sable-neoforge-1.21.1-2.0.6.jar"
