@@ -141,6 +141,10 @@ file = "mods/climbable_ropes-2.2.0.jar"
 hash = "c8d6f0c16edb6a6c988da63f8153ab5b7ae1655476ef437476f31e37592c38a7"
 
 [[files]]
+file = "mods/cloth-config-15.0.140-neoforge.jar"
+hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+
+[[files]]
 file = "mods/colored_packages-neoforge-1.1.1+1.21.1.jar"
 hash = "83f916b2f1fcf4b81107528177b8ac04c9fdadae2a22461f558984308e80757b"
 
@@ -299,6 +303,10 @@ hash = "911afdfe717a2375a651253e282ac9e769f8bead381d33c2167955c25eefe514"
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.70.0.460.jar"
 hash = "097cdfae99b208dfb94f8c55e813af10e55688ecf4e42116fed1b7e26f0f4fcf"
+
+[[files]]
+file = "mods/kotlinforforge-5.12.0-all.jar"
+hash = "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139"
 
 [[files]]
 file = "mods/lambdynamiclights-4.8.11+1.21.1.jar"
