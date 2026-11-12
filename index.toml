@@ -325,6 +325,10 @@ file = "mods/le_fishe_au_chocolat-neoforge-1.21.1-1.0.jar"
 hash = "647a77c60c295aff2008e247e3277a5e3321769257791f05ab2c34d6b09be96a"
 
 [[files]]
+file = "mods/lodestone-1.21.1-1.8.2.jar"
+hash = "cc961af6a77391628378c1c838e521415fa895062b13def493d27234ca527f3e"
+
+[[files]]
 file = "mods/mcqoy-0.4.1+neo-1.21.jar"
 hash = "5e5ae5d9eb18ec94dede5d5a9d00303708316be939f23cfe4722dfbf5bdb73ef"
 
